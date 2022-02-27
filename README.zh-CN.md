@@ -1,5 +1,5 @@
 <p align="center">
-  <img height="260px" src="https://ui.code-stack.cn/images/wisestar-ui.svg">
+  <img height="260px" src="./public/wisestar-ui.svg">
 </p>
 <p align="center">
     <a href="https://github.com/code-hua/wisestar-ui/blob/main/README.md">English</a> 

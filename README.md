@@ -1,9 +1,10 @@
 <p align="center">
-  <img height="260px" src="https://ui.code-stack.cn/images/wisestar-ui.svg">
+  <img height="260px" src="./public/wisestar-ui.svg">
 </p>
 <p align="center">
    English | <a href="https://github.com/code-hua/wisestar-ui/blob/main//README.zh-CN.md">中文</a> 
 </p>
+
 
 
 
