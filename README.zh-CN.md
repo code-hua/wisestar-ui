@@ -2,7 +2,8 @@
   <img height="260px" src="https://ui.code-stack.cn/images/wisestar-ui.svg">
 </p>
 <p align="center">
-   English | <a href="https://github.com/code-hua/wisestar-ui/blob/main//README.zh-CN.md">中文</a> 
+    <a href="https://github.com/code-hua/wisestar-ui/blob/main/README.md">English</a> 
+    | 中文
 </p>
 
 
@@ -21,27 +22,27 @@
 
 
 
-## Documentation
+## 文档
 
 https://ui.code-stack.cn/
 
-## Introduction
+## 介绍
 
-A Vue 3 Component Library. The next generation ui component library of wisestar-ui is based on vue3.2 Version.
+一个简单易用的轻量级组件库，一个 Vue 3 组件库。 wisestar-ui的下一代ui组件库基于vue3.2版本
 
-wisestar-ui is easy to use, simple to configure, lightweight components, easy to use, as easy as copy and paste.
+wisestar-ui 使用方便，配置简单，组件轻量级，上手容易，像复制粘贴一样容易。
 
-## Install
+## 安装
 
 **npm**
 
-Install using npm.
+使用 npm 安装。
 
 ```shell
 npm i wisestar-ui -D
 ```
 
-## Quick Start
+## 快速入门
 
 `main.ts | main.js`
 
@@ -54,6 +55,6 @@ import 'wisestar-ui/style/index.css'
 createApp(App).use(WisestarUI).mount('#app')
 ```
 
-## License
+## 执照
 
-wisestar-ui is open source software licensed as [MIT](https://github.com/element-plus/element-plus/blob/master/LICENSE).
+wisestar-ui 是开源软件，授权为 [MIT](https://github.com/code-hua/wisestar-ui/blob/main/LICENSE)。
