@@ -4,7 +4,7 @@
   "description": "A Vue 3 Component Library. The next generation ui component library of wisestar-ui is based on vue3.2 Version.",
   "main": "index.js",
   "scripts": {
-    "test": "npm install wisestar-ui -D"
+    "test": "npm i wisestar-ui -D"
   },
   "keywords": [
     "wisestar-ui",
